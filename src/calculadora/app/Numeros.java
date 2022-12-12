@@ -3,7 +3,6 @@ package calculadora.app;
 public class Numeros {
     double numero1;
     double numero2;
-    double result;
 
     double resultAdicao() {
       return  numero1 + numero2;
